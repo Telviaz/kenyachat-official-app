@@ -17,7 +17,8 @@ To test on a web browser, first launch `chromedriver` as follows:
 ```bash
 chromedriver --port=4444
 ```
-
+##DOWNLOAD THE APK 
+[APK](https://drive.google.com/file/d/1xrZCBMuIOAkrf-XqThqj2yGZ3ESMkCOF/view?usp=drive_link)
 Then from the root of the project, run the following command:
 ```bash
 flutter drive \
