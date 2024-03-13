@@ -194,6 +194,7 @@ class _MainProfileWidgetState extends State<MainProfileWidget>
                                                         .accent1,
                                                 borderRadius:
                                                     BorderRadius.circular(12.0),
+                                                shape: BoxShape.rectangle,
                                                 border: Border.all(
                                                   color: FlutterFlowTheme.of(
                                                           context)

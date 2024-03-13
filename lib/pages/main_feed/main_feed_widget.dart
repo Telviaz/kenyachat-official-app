@@ -125,7 +125,7 @@ class _MainFeedWidgetState extends State<MainFeedWidget>
                     ),
                   ),
                   Text(
-                    'treads.io',
+                    'chatkenya',
                     style: FlutterFlowTheme.of(context).headlineLarge,
                   ),
                 ],
